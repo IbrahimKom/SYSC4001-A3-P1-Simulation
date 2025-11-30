@@ -1,0 +1,48 @@
+
+Memory status:
+Partition 1 (40 MB): FREE
+Partition 2 (25 MB): FREE
+Partition 3 (15 MB): FREE
+Partition 4 (10 MB): FREE
+Partition 5 (8 MB): FREE
+Partition 6 (2 MB): used by PID 10
+Total used memory: 2 MB
+Total free memory: 98 MB
+Total usable memory: 100 MB
+
+
+Memory status:
+Partition 1 (40 MB): FREE
+Partition 2 (25 MB): FREE
+Partition 3 (15 MB): FREE
+Partition 4 (10 MB): FREE
+Partition 5 (8 MB): used by PID 1
+Partition 6 (2 MB): used by PID 10
+Total used memory: 10 MB
+Total free memory: 90 MB
+Total usable memory: 100 MB
+
+
+Memory status:
+Partition 1 (40 MB): FREE
+Partition 2 (25 MB): FREE
+Partition 3 (15 MB): FREE
+Partition 4 (10 MB): FREE
+Partition 5 (8 MB): FREE
+Partition 6 (2 MB): used by PID 10
+Total used memory: 2 MB
+Total free memory: 98 MB
+Total usable memory: 100 MB
+
+
+Memory status:
+Partition 1 (40 MB): FREE
+Partition 2 (25 MB): FREE
+Partition 3 (15 MB): FREE
+Partition 4 (10 MB): FREE
+Partition 5 (8 MB): FREE
+Partition 6 (2 MB): FREE
+Total used memory: 0 MB
+Total free memory: 100 MB
+Total usable memory: 100 MB
+
